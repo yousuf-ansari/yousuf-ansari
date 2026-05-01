@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yousuf 👋
 
-<!--
-**yousuf-ansari/yousuf-ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at GCETT Serampore (MAKAUT)
+🤖 Currently learning: Python, C++, AI/ML
+🎯 Goal: AI/ML Engineer | Building every day
+📍 West Bengal, India
 
-Here are some ideas to get you started:
+## 🔧 Currently Working On
+- Python fundamentals
+- DSA with C++
+- Building my first ML project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+
